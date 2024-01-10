@@ -69,9 +69,6 @@ Além disso, o projeto utiliza o framework Django, que é amplamente utilizado e
 ## Cobertura de Testes
 Embora não haja uma cobertura completa de testes, foram criados testes unitários para as principais funcionalidades da aplicação. 
 
-Você pode executar os testes usando o comando:
-python manage.py test
-
 
 ## Escolhas Técnicas
 Django: Escolhido devido à sua robustez, facilidade de uso e recursos integrados para desenvolvimento web.
@@ -81,3 +78,8 @@ SQLite: Banco de dados leve e integrado ao Django para facilitar o desenvolvimen
 HTML/CSS/JavaScript: Utilizados para criar uma interface de usuário simples e interativa.
 
 Este é um projeto de exemplo e pode ser adaptado e expandido conforme necessário. 
+
+Gif utilizando o programa:
+
+![2024-01-10 11-29-08](https://github.com/GleisonAmorim/ConversorDeMoeda/assets/54336609/89a58b71-af63-400b-84ad-e7d08590b8a2)
+
