@@ -58,20 +58,26 @@ Insira a moeda de origem, a moeda de destino e a quantia desejada para obter o v
 
 ## Legibilidade do Código
 O código foi escrito de forma a seguir as boas práticas de programação em Python e Django. 
+
 Foram adicionados comentários onde necessário para explicar partes específicas do código.
 
 ## Segurança
 Foram adotadas práticas de segurança recomendadas pelo Django para evitar vulnerabilidades conhecidas. 
+
 Além disso, o projeto utiliza o framework Django, que é amplamente utilizado e mantido.
 
 ## Cobertura de Testes
 Embora não haja uma cobertura completa de testes, foram criados testes unitários para as principais funcionalidades da aplicação. 
+
 Você pode executar os testes usando o comando:
 python manage.py test
 
 
 ## Escolhas Técnicas
 Django: Escolhido devido à sua robustez, facilidade de uso e recursos integrados para desenvolvimento web.
+
 SQLite: Banco de dados leve e integrado ao Django para facilitar o desenvolvimento e testes.
+
 HTML/CSS/JavaScript: Utilizados para criar uma interface de usuário simples e interativa.
+
 Este é um projeto de exemplo e pode ser adaptado e expandido conforme necessário. 
